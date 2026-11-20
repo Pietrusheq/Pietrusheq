@@ -10,16 +10,8 @@
 
 ## My Projects
 
-**DJNORBERT FOR DISCORD**
+**DJNORBERT**: music bot for Discord
 
-**AND**
-
-**ROOT**
-
-<br/>
-
-## My Website
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&width=400&lines=Coming+soon...;Stay+tuned" alt="Coming soon" />
+**ROOT**: training website (coming soon)
 
 </div>
