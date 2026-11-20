@@ -5,3 +5,5 @@
 <img src="https://raw.githubusercontent.com/TWOJ_LOGIN/TWOJ_LOGIN/output/github-snake-dark.svg" width="100%" />
 
 </div>
+
+<img src="https://raw.githubusercontent.com/Pietrusheq/Pietrusheq/output/github-snake-dark.svg" width="100%" />
