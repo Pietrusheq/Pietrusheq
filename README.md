@@ -10,8 +10,8 @@
 
 ## My Projects
 
-**DJNORBERT**: music bot for Discord
+**DJNORBERT**: music bot for Discord and Root
 
-**ROOT**: training website (coming soon)
+**Training website**: coming soon
 
 </div>
