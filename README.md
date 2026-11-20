@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00E5FF&height=220&section=header&text=Cześć,%20jestem%20[IMIĘ]&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Boty%20•%20Web%20•%20Automatyzacja&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/TWOJ_LOGIN">
+<a href="https://github.com/Pietrusheq">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=Student+i+początkujący+developer;Piszę+boty+w+Node.js;Buduję+aplikacje+webowe;Uczę+się+każdego+dnia+🚀" alt="Typing SVG" />
 </a>
 
