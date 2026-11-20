@@ -14,4 +14,10 @@
 
 **Training website**: coming soon
 
+<br/>
+
+## Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietrusheq&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c0c0c0&hide_title=true&langs_count=6" alt="Most used languages" />
+
 </div>
