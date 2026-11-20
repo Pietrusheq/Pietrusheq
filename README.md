@@ -8,13 +8,13 @@
 
 <br/>
 
-## Moje projekty
+## My Projects
 
-<img src="https://cdn.simpleicons.org/discord/ffffff" width="24" align="absmiddle" /> **DJNORBERT FOR DISCORD**
+**DJNORBERT FOR DISCORD**
 
 **AND**
 
-<img src="https://cdn.simpleicons.org/windowsterminal/ffffff" width="24" align="absmiddle" /> **ROOT**
+**ROOT**
 
 <br/>
 
