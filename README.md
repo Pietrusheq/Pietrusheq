@@ -8,7 +8,8 @@
 
 ## 🚀 Moje projekty
 
-<img src="https://img.shields.io/badge/DJNORBERT-FOR%20DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-<img src="https://img.shields.io/badge/ROOT-7F00FF?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://cdn.simpleicons.org/discord/5865F2" width="22" align="center" /> **DJNORBERT FOR DISCORD**
+
+<img src="https://cdn.simpleicons.org/gnubash/7F00FF" width="22" align="center" /> **ROOT**
 
 </div>
