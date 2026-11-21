@@ -10,7 +10,7 @@
 
 **DJNORBERT**: music bot for Discord and Root
 
-**Training website**: coming soon
+**[Training website](https://pietrusheq.github.io/trng/)**: in beta
 
 <br/>
 
