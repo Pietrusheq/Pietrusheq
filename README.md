@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Music+bots+for+Discord;Building+my+own+website;Learning+every+day;Coding+never+stops" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Hi,+I'm+Pietrusheq;Discord+bot+developer;Web+developer+in+training;Coding+never+stops" alt="Typing animation" />
 
 <img src="https://raw.githubusercontent.com/Pietrusheq/Pietrusheq/output/github-snake-dark.svg" width="100%" />
 
